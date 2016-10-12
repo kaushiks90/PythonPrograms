@@ -13,7 +13,7 @@ def GCD(m,n):
             fr.append(x)
     return fr[-1]
 
-print(GCD(14,28))
+print(GCD(14,32))
 
     
 
