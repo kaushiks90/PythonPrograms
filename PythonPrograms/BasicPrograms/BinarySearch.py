@@ -12,6 +12,6 @@ def BinarySearch(inputList,searchKey):
         elif searchKey>inputList[mid]:
             first=mid+1;
 
-result = BinarySearch(list,1)
+result = BinarySearch(list,1)   
 print("Element pos",result)
 
