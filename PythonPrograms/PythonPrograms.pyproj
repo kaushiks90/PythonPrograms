@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>04ebcd42-1ce7-49be-9ebc-40bdd40383cd</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>BasicPrograms\BinarySearch.py</StartupFile>
+    <StartupFile>BasicPrograms\ReverseNumber.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,12 +25,21 @@
     <Compile Include="BasicPrograms\BinarySearch.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="BasicPrograms\FactorialOfNumber.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="BasicPrograms\Fibonacci.py" />
     <Compile Include="BasicPrograms\GCD%28Greatest Common Divisor%29.py" />
     <Compile Include="BasicPrograms\LinearSearch.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="BasicPrograms\PrimeNumber.py" />
+    <Compile Include="BasicPrograms\ReverseNumber.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BasicPrograms\ReverseString.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="BasicPrograms\" />
