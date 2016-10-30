@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>04ebcd42-1ce7-49be-9ebc-40bdd40383cd</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>BasicPrograms\SelectionSort.py</StartupFile>
+    <StartupFile>BasicPrograms\InsertionSort.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -39,6 +39,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="BasicPrograms\GCD%28Greatest Common Divisor%29.py" />
+    <Compile Include="BasicPrograms\InsertionSort.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="BasicPrograms\LeadersInArray.py">
       <SubType>Code</SubType>
     </Compile>
