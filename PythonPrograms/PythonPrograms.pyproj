@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>04ebcd42-1ce7-49be-9ebc-40bdd40383cd</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>BasicPrograms\BinarySearch-Ex-4.py</StartupFile>
+    <StartupFile>BasicPrograms\BinarySearch-Ex-6.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -32,6 +32,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="BasicPrograms\BinarySearch-Ex-4.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BasicPrograms\BinarySearch-Ex-5.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BasicPrograms\BinarySearch-Ex-6.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="BasicPrograms\BinarySearch.py">
