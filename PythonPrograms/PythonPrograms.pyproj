@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>04ebcd42-1ce7-49be-9ebc-40bdd40383cd</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>BasicPrograms\ArraysAddition.py</StartupFile>
+    <StartupFile>BasicPrograms\ZigZagFasion.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -47,6 +47,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="BasicPrograms\BubbleSort.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BasicPrograms\CommonInThreeSortedArray.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="BasicPrograms\CountFrequencyOfArrayElements1toN.py">
@@ -92,6 +95,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="BasicPrograms\SelectionSort.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BasicPrograms\ZigZagFasion.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
