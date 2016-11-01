@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>04ebcd42-1ce7-49be-9ebc-40bdd40383cd</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>BasicPrograms\BinarySearch-Ex-6.py</StartupFile>
+    <StartupFile>BasicPrograms\ArraysAddition.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="BasicPrograms\ArraysAddition.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="BasicPrograms\BinarySearch-Ex-1.py">
       <SubType>Code</SubType>
     </Compile>
