@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>04ebcd42-1ce7-49be-9ebc-40bdd40383cd</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>BasicPrograms\MinMax.py</StartupFile>
+    <StartupFile>BasicPrograms\Merge2SortedArray.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -73,6 +73,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="BasicPrograms\MajorityElement.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BasicPrograms\Merge2SortedArray.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="BasicPrograms\MergeSort.py">
