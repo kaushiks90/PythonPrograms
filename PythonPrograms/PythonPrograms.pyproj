@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>04ebcd42-1ce7-49be-9ebc-40bdd40383cd</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>BasicPrograms\Merge2SortedArray.py</StartupFile>
+    <StartupFile>BasicPrograms\PartitionOfArray.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -107,6 +107,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="BasicPrograms\ZigZagFasion.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BasicPrograms\PartitionOfArray.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
