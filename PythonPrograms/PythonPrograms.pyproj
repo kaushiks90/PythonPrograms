@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>04ebcd42-1ce7-49be-9ebc-40bdd40383cd</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>DynamicPrograms\PartitionSubsetSum.py</StartupFile>
+    <StartupFile>BasicPrograms\Anagrams.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="BasicPrograms\Anagrams.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="BasicPrograms\ArraysAddition.py">
       <SubType>Code</SubType>
     </Compile>
@@ -60,6 +63,9 @@
     </Compile>
     <Compile Include="BasicPrograms\Fibonacci.py" />
     <Compile Include="BasicPrograms\FindNumberThatOccursOddNumberOfTimes.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="BasicPrograms\FizzBuzz.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="BasicPrograms\GCD%28Greatest Common Divisor%29.py" />
